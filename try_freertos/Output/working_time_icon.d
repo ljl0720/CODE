@@ -1,0 +1,10 @@
+..\..\output\working_time_icon.o: ..\..\User\Bsp\STemWIN_ICON\Menu_\Working_Time_Icon.c
+..\..\output\working_time_icon.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\..\output\working_time_icon.o: ..\..\User\STemWin\inc\GUI.h
+..\..\output\working_time_icon.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\..\output\working_time_icon.o: ..\..\User\STemWin\inc\GUI_ConfDefaults.h
+..\..\output\working_time_icon.o: ..\..\User\STemWin\Config\GUIConf.h
+..\..\output\working_time_icon.o: ..\..\User\STemWin\inc\GUI_Type.h
+..\..\output\working_time_icon.o: ..\..\User\STemWin\inc\LCD.h
+..\..\output\working_time_icon.o: ..\..\User\STemWin\inc\Global.h
+..\..\output\working_time_icon.o: ..\..\User\STemWin\inc\GUI_Version.h

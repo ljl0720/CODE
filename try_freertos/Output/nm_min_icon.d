@@ -1,0 +1,10 @@
+..\..\output\nm_min_icon.o: ..\..\User\Bsp\STemWIN_ICON\Disposition\Nm_Min_Icon.c
+..\..\output\nm_min_icon.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\..\output\nm_min_icon.o: ..\..\User\STemWin\inc\GUI.h
+..\..\output\nm_min_icon.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\..\output\nm_min_icon.o: ..\..\User\STemWin\inc\GUI_ConfDefaults.h
+..\..\output\nm_min_icon.o: ..\..\User\STemWin\Config\GUIConf.h
+..\..\output\nm_min_icon.o: ..\..\User\STemWin\inc\GUI_Type.h
+..\..\output\nm_min_icon.o: ..\..\User\STemWin\inc\LCD.h
+..\..\output\nm_min_icon.o: ..\..\User\STemWin\inc\Global.h
+..\..\output\nm_min_icon.o: ..\..\User\STemWin\inc\GUI_Version.h

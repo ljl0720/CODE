@@ -1,0 +1,10 @@
+..\..\output\desprition_icon.o: ..\..\User\Bsp\STemWIN_ICON\Menu_\Desprition_Icon.c
+..\..\output\desprition_icon.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\..\output\desprition_icon.o: ..\..\User\STemWin\inc\GUI.h
+..\..\output\desprition_icon.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\..\output\desprition_icon.o: ..\..\User\STemWin\inc\GUI_ConfDefaults.h
+..\..\output\desprition_icon.o: ..\..\User\STemWin\Config\GUIConf.h
+..\..\output\desprition_icon.o: ..\..\User\STemWin\inc\GUI_Type.h
+..\..\output\desprition_icon.o: ..\..\User\STemWin\inc\LCD.h
+..\..\output\desprition_icon.o: ..\..\User\STemWin\inc\Global.h
+..\..\output\desprition_icon.o: ..\..\User\STemWin\inc\GUI_Version.h

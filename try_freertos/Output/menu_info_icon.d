@@ -1,0 +1,10 @@
+..\..\output\menu_info_icon.o: ..\..\User\Bsp\STemWIN_ICON\Menu_\Menu_Info_Icon.c
+..\..\output\menu_info_icon.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\..\output\menu_info_icon.o: ..\..\User\STemWin\inc\GUI.h
+..\..\output\menu_info_icon.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\..\output\menu_info_icon.o: ..\..\User\STemWin\inc\GUI_ConfDefaults.h
+..\..\output\menu_info_icon.o: ..\..\User\STemWin\Config\GUIConf.h
+..\..\output\menu_info_icon.o: ..\..\User\STemWin\inc\GUI_Type.h
+..\..\output\menu_info_icon.o: ..\..\User\STemWin\inc\LCD.h
+..\..\output\menu_info_icon.o: ..\..\User\STemWin\inc\Global.h
+..\..\output\menu_info_icon.o: ..\..\User\STemWin\inc\GUI_Version.h

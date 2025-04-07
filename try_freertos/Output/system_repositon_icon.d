@@ -1,0 +1,10 @@
+..\..\output\system_repositon_icon.o: ..\..\User\Bsp\STemWIN_ICON\System_set\System_Repositon_Icon.c
+..\..\output\system_repositon_icon.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\..\output\system_repositon_icon.o: ..\..\User\STemWin\inc\GUI.h
+..\..\output\system_repositon_icon.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\..\output\system_repositon_icon.o: ..\..\User\STemWin\inc\GUI_ConfDefaults.h
+..\..\output\system_repositon_icon.o: ..\..\User\STemWin\Config\GUIConf.h
+..\..\output\system_repositon_icon.o: ..\..\User\STemWin\inc\GUI_Type.h
+..\..\output\system_repositon_icon.o: ..\..\User\STemWin\inc\LCD.h
+..\..\output\system_repositon_icon.o: ..\..\User\STemWin\inc\Global.h
+..\..\output\system_repositon_icon.o: ..\..\User\STemWin\inc\GUI_Version.h

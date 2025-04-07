@@ -1,0 +1,10 @@
+..\..\output\connect_icon.o: ..\..\User\Bsp\STemWIN_ICON\Monitor\Connect_Icon.c
+..\..\output\connect_icon.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\..\output\connect_icon.o: ..\..\User\STemWin\inc\GUI.h
+..\..\output\connect_icon.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\..\output\connect_icon.o: ..\..\User\STemWin\inc\GUI_ConfDefaults.h
+..\..\output\connect_icon.o: ..\..\User\STemWin\Config\GUIConf.h
+..\..\output\connect_icon.o: ..\..\User\STemWin\inc\GUI_Type.h
+..\..\output\connect_icon.o: ..\..\User\STemWin\inc\LCD.h
+..\..\output\connect_icon.o: ..\..\User\STemWin\inc\Global.h
+..\..\output\connect_icon.o: ..\..\User\STemWin\inc\GUI_Version.h

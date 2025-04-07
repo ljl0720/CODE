@@ -1,0 +1,10 @@
+..\..\output\statistics_icon.o: ..\..\User\Bsp\STemWIN_ICON\Menu_\Statistics_Icon.c
+..\..\output\statistics_icon.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\..\output\statistics_icon.o: ..\..\User\STemWin\inc\GUI.h
+..\..\output\statistics_icon.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\..\output\statistics_icon.o: ..\..\User\STemWin\inc\GUI_ConfDefaults.h
+..\..\output\statistics_icon.o: ..\..\User\STemWin\Config\GUIConf.h
+..\..\output\statistics_icon.o: ..\..\User\STemWin\inc\GUI_Type.h
+..\..\output\statistics_icon.o: ..\..\User\STemWin\inc\LCD.h
+..\..\output\statistics_icon.o: ..\..\User\STemWin\inc\Global.h
+..\..\output\statistics_icon.o: ..\..\User\STemWin\inc\GUI_Version.h
